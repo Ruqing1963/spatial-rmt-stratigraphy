@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Spatial Level Repulsion in the Stratigraphic Record: A Random Matrix Theory Test of Cyclostratigraphic Bed Spacing"
+message: If you use this software or data, please cite it using this metadata.
+type: software
+authors:
+  - given-names: Ruqing
+    family-names: Chen
+    email: ruqing@hotmail.com
+    affiliation: 'GUT Geoservice Inc., Montreal, Canada'
+repository-code: 'https://github.com/Ruqing1963/spatial-rmt-stratigraphy'
+abstract: >-
+  Part I of a fifth racetrack translating temporal RMT level repulsion to the
+  spatial domain. A validated spatial RMT pipeline shows that down-core spacings
+  of Milankovitch cycles in two independent real cyclostratigraphic sections
+  (Gubbio, Blue Lias) exhibit GUE-class spatial repulsion (surrogate p<0.0001),
+  while multi-source turbidites give Poisson. Establishes the spatial method;
+  the spatial-shadow hypothesis awaits the structural and metallogenic analogs.
+keywords:
+  - random matrix theory
+  - cyclostratigraphy
+  - Milankovitch cycles
+  - spatial point process
+  - level repulsion
+  - turbidites
+license: MIT
+version: 1.0.0
+date-released: '2026-06-20'

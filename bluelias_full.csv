@@ -1,0 +1,1118 @@
+# Blue Lias Formation, Southam Quarry, magnetic susceptibility + lithology
+# Source: Weedon et al. 2019, PANGAEA https://doi.org/10.1594/PANGAEA.896875 (CC-BY-4.0)
+# UK, Hettangian-Sinemurian limestone-marl-shale rhythmite. Real measurements, 2cm spacing.
+height_m,magnetic_susceptibility,lithology
+-0.39,0.0095,Limestone
+-0.36,0.0095,Limestone
+-0.33,0.0120,Limestone
+-0.30,0.0120,Limestone
+-0.27,0.0115,Limestone
+-0.24,0.0100,Limestone
+-0.21,0.0120,Limestone
+-0.18,0.0120,Limestone
+-0.15,0.0115,Limestone
+-0.12,0.0125,Limestone
+-0.09,0.0120,Limestone
+-0.06,0.0110,Limestone
+-0.03,0.0350,Weathered pyrite
+0.00,0.0555,Laminated shale
+0.03,0.0570,Laminated shale
+0.06,0.0505,Laminated shale
+0.09,0.0615,Laminated shale
+0.12,0.0665,Laminated shale
+0.15,0.0695,Laminated shale
+0.18,0.0670,Laminated shale
+0.21,0.0640,Laminated shale
+0.24,0.0660,Laminated shale
+0.27,0.0700,Laminated shale
+0.30,0.0700,Laminated shale
+0.33,0.0680,Laminated shale
+0.36,0.0735,Laminated shale
+0.39,0.0740,Laminated shale
+0.42,0.0760,Laminated shale
+0.45,0.0650,Laminated shale
+0.48,0.0490,Laminated shale
+0.51,0.0555,Laminated shale
+0.54,0.0520,Laminated shale
+0.57,0.0445,Laminated shale
+0.60,0.0600,Laminated shale
+0.63,0.0645,Laminated shale
+0.66,0.0595,Laminated shale
+0.69,0.0500,Laminated shale
+0.72,0.0745,Laminated shale
+0.75,0.0655,Laminated shale
+0.78,0.0755,Laminated shale
+0.81,0.0590,Laminated shale
+0.84,0.0565,Laminated shale
+0.87,0.0680,Laminated shale
+0.90,0.0575,Laminated shale
+0.93,0.0535,Laminated shale
+0.96,0.0625,Laminated shale
+0.99,0.0610,Laminated shale
+1.02,0.0615,Laminated shale
+1.05,0.0545,Laminated shale
+1.08,0.0540,Laminated shale
+1.11,0.0475,Laminated shale
+1.14,0.0465,Laminated shale
+1.17,0.0430,Laminated shale
+1.20,0.0680,Laminated shale
+1.23,0.0465,Laminated shale
+1.26,0.0525,Laminated shale
+1.29,0.0550,Laminated shale
+1.32,0.0570,Laminated shale
+1.35,0.0570,Laminated shale
+1.38,0.0615,Laminated shale
+1.41,0.0620,Laminated shale
+1.44,0.0550,Laminated shale
+1.47,0.0600,Laminated shale
+1.50,0.0700,Laminated shale
+1.53,0.0650,Laminated shale
+1.56,0.0820,Laminated shale
+1.59,0.0655,Laminated shale
+1.62,0.0720,Laminated shale
+1.65,0.0725,Laminated shale
+1.68,0.0740,Laminated shale
+1.71,0.0675,Laminated shale
+1.74,0.0545,Laminated shale
+1.77,0.0485,Laminated shale
+1.80,0.0570,Laminated shale
+1.83,0.0540,Laminated shale
+1.86,0.0540,Laminated shale
+1.89,0.0520,Laminated shale
+1.92,0.0575,Laminated shale
+1.95,0.0370,Laminated shale
+1.98,0.0635,Laminated shale
+2.01,0.0465,Laminated shale
+2.04,0.0540,Laminated shale
+2.07,0.0480,Laminated shale
+2.10,0.0450,Laminated shale
+2.13,0.0395,Laminated limestone
+2.16,0.0455,Laminated shale
+2.19,0.0605,Laminated shale
+2.22,0.0550,Laminated shale
+2.25,0.0550,Laminated shale
+2.28,0.0565,Laminated shale
+2.31,0.0555,Laminated shale
+2.34,0.0610,Laminated shale
+2.37,0.0575,Laminated shale
+2.40,0.0580,Laminated shale
+2.43,0.0545,Laminated shale
+2.46,0.0470,Laminated shale
+2.49,0.0455,Laminated shale
+2.52,0.0505,Laminated shale
+2.55,0.0500,Laminated shale
+2.58,0.0525,Laminated shale
+2.61,0.0570,Laminated shale
+2.64,0.0535,Laminated shale
+2.67,0.0440,Laminated shale
+2.70,0.0655,Laminated shale
+2.73,0.0645,Laminated shale
+2.76,0.0500,Laminated shale
+2.79,0.0460,Laminated shale
+2.82,0.0610,Laminated shale
+2.85,0.0555,Laminated shale
+2.88,0.0520,Laminated shale
+2.91,0.0510,Laminated shale
+2.94,0.0545,Laminated shale
+2.97,0.0675,Laminated shale
+3.00,0.0595,Laminated shale
+3.03,0.0570,Laminated shale
+3.06,0.0592,Laminated shale
+3.09,0.0595,Laminated shale
+3.12,0.0550,Laminated shale
+3.15,0.0475,Laminated shale
+3.18,0.0640,Laminated shale
+3.21,0.0640,Laminated shale
+3.24,0.0565,Laminated shale
+3.27,0.0595,Laminated shale
+3.30,0.0520,Laminated shale
+3.33,0.0545,Laminated shale
+3.36,0.0585,Laminated shale
+3.39,0.0530,Laminated shale
+3.42,0.0500,Laminated shale
+3.45,0.0545,Laminated shale
+3.48,0.0600,Laminated shale
+3.51,0.0470,Laminated shale
+3.54,0.0535,Laminated shale
+3.57,0.0555,Laminated shale
+3.60,0.0560,Laminated shale
+3.63,0.0530,Laminated shale
+3.66,0.0480,Laminated shale
+3.69,0.0450,Laminated shale
+3.72,0.0470,Laminated shale
+3.75,0.0600,Laminated shale
+3.78,0.0600,Laminated shale
+3.81,0.0610,Laminated shale
+3.84,0.0660,Laminated shale
+3.87,0.0590,Laminated shale
+3.90,0.0555,Laminated shale
+3.93,0.0465,Laminated shale
+3.96,0.0575,Laminated shale
+3.99,0.0685,Laminated shale
+4.02,0.0470,Laminated shale
+4.05,0.0520,Laminated shale
+4.08,0.0495,Laminated shale
+4.11,0.0575,Laminated shale
+4.14,0.0715,Laminated shale
+4.17,0.0560,Laminated shale
+4.20,0.0645,Laminated shale
+4.23,0.0565,Laminated shale
+4.26,0.0640,Laminated shale
+4.29,0.0610,Laminated shale
+4.32,0.0570,Laminated shale
+4.35,0.0615,Laminated shale
+4.38,0.0570,Laminated shale
+4.41,0.0520,Laminated shale
+4.44,0.0595,Laminated shale
+4.47,0.0510,Laminated shale
+4.50,0.0555,Laminated shale
+4.53,0.0650,Laminated shale
+4.56,0.0600,Laminated shale
+4.59,0.0580,Laminated shale
+4.62,0.0610,Laminated shale
+4.65,0.0575,Laminated shale
+4.68,0.0540,Laminated shale
+4.71,0.0635,Laminated shale
+4.74,0.0560,Laminated shale
+4.77,0.0640,Laminated shale
+4.80,0.0660,Laminated shale
+4.83,0.0685,Laminated shale
+4.86,0.0520,Laminated shale
+4.89,0.0660,Laminated shale
+4.92,0.0610,Laminated shale
+4.95,0.0555,Laminated shale
+4.98,0.0610,Laminated shale
+5.01,0.0700,Laminated shale
+5.04,0.0415,Laminated shale
+5.07,0.0565,Laminated shale
+5.10,0.0535,Laminated shale
+5.13,0.0575,Laminated shale
+5.16,0.0540,Laminated shale
+5.19,0.0610,Laminated shale
+5.22,0.0580,Laminated shale
+5.25,0.0650,Laminated shale
+5.28,0.0600,Laminated shale
+5.31,0.0570,Laminated shale
+5.34,0.0635,Laminated shale
+5.37,0.0640,Laminated shale
+5.40,0.0530,Laminated shale
+5.43,0.0565,Laminated shale
+5.46,0.0580,Laminated shale
+5.49,0.0640,Laminated shale
+5.52,0.0575,Laminated shale
+5.55,0.0535,Laminated shale
+5.58,0.0540,Laminated shale
+5.61,0.0490,Laminated shale
+5.64,0.0580,Laminated shale
+5.67,0.0415,Laminated shale
+5.70,0.0545,Laminated shale
+5.73,0.0590,Laminated shale
+5.76,0.0550,Laminated shale
+5.79,0.0585,Laminated shale
+5.82,0.0565,Laminated shale
+5.85,0.0590,Laminated shale
+5.88,0.0590,Laminated shale
+5.91,0.0540,Laminated shale
+5.94,0.0545,Laminated shale
+5.97,0.0560,Laminated shale
+6.00,0.0445,Laminated shale
+6.03,0.0420,Laminated shale
+6.06,0.0540,Laminated shale
+6.09,0.0560,Laminated shale
+6.12,0.0560,Laminated shale
+6.15,0.0525,Laminated shale
+6.18,0.0340,Laminated shale
+6.21,0.0460,Laminated shale
+6.24,0.0540,Laminated shale
+6.27,0.0470,Laminated shale
+6.30,0.0545,Laminated shale
+6.33,0.0430,Laminated shale
+6.36,0.0475,Laminated shale
+6.39,0.0570,Laminated shale
+6.42,0.0450,Laminated shale
+6.45,0.0475,Laminated shale
+6.48,0.0455,Laminated shale
+6.51,0.0530,Laminated shale
+6.54,0.0505,Laminated shale
+6.57,0.0535,Laminated shale
+6.60,0.0490,Laminated shale
+6.63,0.0510,Laminated shale
+6.66,0.0545,Laminated shale
+6.69,0.0390,Laminated shale
+6.72,0.0505,Laminated shale
+6.75,0.0530,Laminated shale
+6.78,0.0540,Laminated shale
+6.81,0.0510,Laminated shale
+6.84,0.0475,Laminated shale
+6.87,0.0490,Laminated shale
+6.90,0.0510,Laminated shale
+6.93,0.0600,Laminated shale
+6.96,0.0600,Laminated shale
+6.99,0.0450,Laminated shale
+7.02,0.0520,Laminated shale
+7.05,0.0480,Laminated shale
+7.08,0.0500,Laminated shale
+7.11,0.0470,Laminated shale
+7.14,0.0545,Laminated shale
+7.17,0.0460,Laminated shale
+7.20,0.0455,Laminated shale
+7.23,0.0495,Laminated shale
+7.26,0.0525,Laminated shale
+7.29,0.0480,Laminated shale
+7.32,0.0600,Laminated shale
+7.35,0.0590,Laminated shale
+7.38,0.0510,Laminated shale
+7.41,0.0460,Laminated shale
+7.44,0.0550,Laminated shale
+7.47,0.0470,Laminated shale
+7.50,0.0335,Laminated shale
+7.53,0.0360,Laminated shale
+7.56,0.0400,Laminated shale
+7.59,0.0455,Laminated shale
+7.62,0.0520,Laminated shale
+7.65,0.0465,Laminated shale
+7.68,0.0270,Laminated limestone
+7.71,0.0235,Laminated limestone
+7.74,0.0255,Laminated limestone
+7.77,0.0355,Laminated limestone
+7.80,0.0365,Laminated limestone
+7.83,0.0595,Laminated shale
+7.86,0.0575,Laminated shale
+7.89,0.0550,Laminated shale
+7.92,0.0625,Laminated shale
+7.95,0.0540,Laminated shale
+7.98,0.0540,Laminated shale
+8.01,0.0685,Laminated shale
+8.04,0.0520,Laminated shale
+8.07,0.0560,Laminated shale
+8.10,0.0710,Laminated shale
+8.13,0.0585,Laminated shale
+8.16,0.0665,Laminated shale
+8.19,0.0680,Laminated shale
+8.22,0.0640,Laminated shale
+8.25,0.0780,Laminated shale
+8.28,0.0750,Laminated shale
+8.31,0.0690,Laminated shale
+8.34,0.0560,Laminated shale
+8.37,0.0760,Laminated shale
+8.40,0.0740,Laminated shale
+8.43,0.0715,Laminated shale
+8.46,0.0620,Laminated shale
+8.49,0.0640,Laminated shale
+8.52,0.0635,Laminated shale
+8.55,0.0665,Laminated shale
+8.58,0.0650,Laminated shale
+8.61,0.0660,Laminated shale
+8.64,0.0690,Laminated shale
+8.67,0.0745,Laminated shale
+8.70,0.0635,Laminated shale
+8.73,0.0760,Laminated shale
+8.76,0.0525,Laminated shale
+8.79,0.0635,Laminated shale
+8.82,0.0600,Laminated shale
+8.85,0.0620,Laminated shale
+8.88,0.0580,Laminated shale
+8.91,0.0655,Laminated shale
+8.94,0.0610,Laminated shale
+8.97,0.0620,Laminated shale
+9.00,0.0740,Laminated shale
+9.03,0.0595,Laminated shale
+9.06,0.0630,Laminated shale
+9.09,0.0455,Laminated shale
+9.12,0.0500,Laminated shale
+9.15,0.0560,Laminated shale
+9.18,0.0580,Laminated shale
+9.21,0.0580,Laminated shale
+9.24,0.0555,Laminated shale
+9.27,0.0605,Laminated shale
+9.30,0.0645,Laminated shale
+9.33,0.0690,Laminated shale
+9.36,0.0600,Laminated shale
+9.39,0.0555,Laminated shale
+9.42,0.0530,Laminated shale
+9.45,0.0670,Laminated shale
+9.48,0.0640,Laminated shale
+9.51,0.0465,Laminated shale
+9.54,0.0465,Laminated shale
+9.57,0.0530,Laminated shale
+9.60,0.0515,Laminated shale
+9.63,0.0530,Laminated shale
+9.66,0.0570,Laminated shale
+9.69,0.0605,Laminated shale
+9.72,0.0550,Laminated shale
+9.75,0.0450,Laminated shale
+9.78,0.0445,Laminated limestone
+9.81,0.0445,Laminated limestone
+9.84,0.0580,Laminated shale
+9.87,0.0580,Laminated shale
+9.90,0.0545,Laminated shale
+9.93,0.0605,Laminated shale
+9.96,0.0580,Laminated shale
+9.99,0.0550,Laminated shale
+10.02,0.0575,Laminated shale
+10.05,0.0515,Laminated shale
+10.08,0.0570,Laminated shale
+10.11,0.0320,Laminated limestone
+10.14,0.0255,Laminated limestone
+10.17,0.0370,Laminated limestone
+10.20,0.0685,Laminated shale
+10.23,0.0535,Laminated shale
+10.26,0.0610,Laminated shale
+10.29,0.0570,Laminated shale
+10.32,0.0525,Laminated shale
+10.35,0.0580,Laminated shale
+10.38,0.0490,Laminated shale
+10.41,0.0505,Laminated shale
+10.44,0.0600,Laminated shale
+10.47,0.0600,Laminated shale
+10.50,0.0505,Laminated shale
+10.53,0.0590,Laminated shale
+10.56,0.0515,Laminated shale
+10.59,0.0555,Laminated shale
+10.62,0.0660,Laminated shale
+10.65,0.0570,Laminated shale
+10.68,0.0605,Laminated shale
+10.71,0.0565,Laminated shale
+10.74,0.0540,Laminated shale
+10.77,0.0655,Laminated shale
+10.80,0.0475,Laminated shale
+10.83,0.0505,Laminated shale
+10.86,0.0300,Limestone
+10.89,0.0180,Limestone
+10.92,0.0245,Limestone
+10.95,0.0190,Limestone
+10.98,0.0225,Limestone
+11.01,0.0275,Limestone
+11.04,0.0575,Dark marl
+11.07,0.0565,Dark marl
+11.10,0.0630,Dark marl
+11.13,0.0520,Dark marl
+11.16,0.0510,Dark marl
+11.19,0.0485,Dark marl
+11.22,0.0560,Dark marl
+11.25,0.0245,Limestone
+11.28,0.0155,Limestone
+11.31,0.0170,Limestone
+11.34,0.0525,Light marl
+11.37,0.0560,Light marl
+11.40,0.0485,Light marl
+11.43,0.0515,Light marl
+11.46,0.0390,Light marl
+11.49,0.0485,Light marl
+11.52,0.0530,Light marl
+11.55,0.0355,Limestone
+11.58,0.0165,Limestone
+11.61,0.0130,Limestone
+11.64,0.0435,Light marl
+11.67,0.0415,Light marl
+11.70,0.0300,Light marl
+11.73,0.0200,Limestone nodule
+11.76,0.0170,Limestone nodule
+11.79,0.0130,Limestone nodule
+11.82,0.0485,Light marl
+11.85,0.0510,Light marl
+11.88,0.0565,Light marl
+11.91,0.0585,Light marl
+11.94,0.0505,Light marl
+11.97,0.0270,Limestone nodule
+12.00,0.0245,Limestone nodule
+12.03,0.0500,Light marl
+12.06,0.0490,Light marl
+12.09,0.0575,Light marl
+12.12,0.0420,Light marl
+12.15,0.0515,Light marl
+12.18,0.0410,Light marl
+12.21,0.0160,Limestone
+12.24,0.0150,Limestone
+12.27,0.0140,Limestone
+12.30,0.0180,Limestone
+12.33,0.0265,Limestone
+12.36,0.0145,Limestone
+12.39,0.0520,Laminated shale
+12.42,0.0550,Laminated shale
+12.45,0.0585,Laminated shale
+12.48,0.0555,Laminated shale
+12.51,0.0595,Laminated shale
+12.54,0.0560,Laminated shale
+12.57,0.0515,Laminated shale
+12.60,0.0615,Laminated shale
+12.63,0.0625,Laminated shale
+12.66,0.0610,Laminated shale
+12.69,0.0555,Laminated shale
+12.72,0.0585,Laminated shale
+12.75,0.0525,Laminated shale
+12.78,0.0565,Laminated shale
+12.81,0.0530,Laminated shale
+12.84,0.0640,Laminated shale
+12.87,0.0430,Laminated shale
+12.90,0.0550,Laminated shale
+12.93,0.0660,Laminated shale
+12.96,0.0570,Laminated shale
+12.99,0.0535,Laminated shale
+13.02,0.0545,Laminated shale
+13.05,0.0520,Laminated shale
+13.08,0.0610,Laminated shale
+13.11,0.0695,Laminated shale
+13.14,0.0645,Laminated shale
+13.17,0.0655,Laminated shale
+13.20,0.0650,Laminated shale
+13.23,0.0600,Laminated shale
+13.26,0.0625,Laminated shale
+13.29,0.0560,Laminated shale
+13.32,0.0600,Laminated shale
+13.35,0.0550,Laminated shale
+13.38,0.0585,Laminated shale
+13.41,0.0590,Laminated shale
+13.44,0.0540,Light marl
+13.47,0.0435,Light marl
+13.50,0.0475,Light marl
+13.53,0.0420,Light marl
+13.56,0.0410,Light marl
+13.59,0.0210,Limestone
+13.62,0.0200,Limestone
+13.65,0.0260,Limestone
+13.68,0.0180,Limestone
+13.71,0.0100,Limestone
+13.74,0.0135,Limestone
+13.77,0.0460,Light marl
+13.80,0.0450,Light marl
+13.83,0.0525,Light marl
+13.86,0.0380,Dark marl
+13.89,0.0535,Dark marl
+13.92,0.0645,Dark marl
+13.95,0.0470,Dark marl
+13.98,0.0495,Light marl
+14.01,0.0405,Light marl
+14.04,0.0150,Limestone
+14.07,0.0205,Limestone
+14.10,0.0485,Light marl
+14.13,0.0545,Light marl
+14.16,0.0185,Limestone
+14.19,0.0130,Limestone
+14.22,0.0150,Limestone
+14.25,0.0465,Light marl
+14.28,0.0500,Light marl
+14.31,0.0150,Limestone nodule
+14.34,0.0430,Light marl
+14.37,0.0325,Light marl
+14.40,0.0465,Light marl
+14.43,0.0475,Light marl
+14.46,0.0425,Light marl
+14.49,0.0395,Light marl
+14.52,0.0380,Light marl
+14.55,0.0490,Light marl
+14.58,0.0490,Light marl
+14.61,0.0345,Light marl
+14.64,0.0335,Limestone
+14.67,0.0215,Limestone
+14.70,0.0150,Limestone
+14.73,0.0155,Limestone
+14.76,0.0130,Limestone
+14.79,0.0470,Light marl
+14.82,0.0395,Light marl
+14.85,0.0345,Light marl
+14.88,0.0420,Light marl
+14.91,0.0255,Limestone nodule
+14.94,0.0140,Limestone nodule
+14.97,0.0105,Limestone nodule
+15.00,0.0430,Dark marl
+15.03,0.0355,Dark marl
+15.06,0.0320,Dark marl
+15.09,0.0355,Dark marl
+15.12,0.0125,Limestone
+15.15,0.0125,Limestone
+15.18,0.0110,Limestone
+15.21,0.0295,Dark marl
+15.24,0.0370,Dark marl
+15.27,0.0120,Limestone nodule
+15.30,0.0095,Limestone nodule
+15.33,0.0385,Dark marl
+15.36,0.0375,Dark marl
+15.39,0.0230,Limestone nodule
+15.42,0.0125,Limestone nodule
+15.45,0.0130,Limestone nodule
+15.48,0.0510,Dark marl
+15.51,0.0495,Dark marl
+15.54,0.0565,Dark marl
+15.57,0.0520,Dark marl
+15.60,0.0380,Dark marl
+15.63,0.0205,Limestone
+15.66,0.0135,Limestone
+15.69,0.0105,Limestone
+15.72,0.0155,Limestone
+15.75,0.0285,Dark marl
+15.78,0.0320,Dark marl
+15.81,0.0205,Limestone
+15.84,0.0160,Limestone
+15.87,0.0115,Limestone
+15.90,0.0145,Limestone
+15.93,0.0470,Dark marl
+15.96,0.0425,Dark marl
+15.99,0.0440,Dark marl
+16.02,0.0595,Dark marl
+16.05,0.0555,Dark marl
+16.08,0.0535,Dark marl
+16.11,0.0465,Light marl
+16.14,0.0395,Dark marl
+16.17,0.0495,Dark marl
+16.20,0.0420,Dark marl
+16.23,0.0525,Light marl
+16.26,0.0520,Light marl
+16.29,0.0485,Light marl
+16.32,0.0490,Light marl
+16.35,0.0490,Light marl
+16.38,0.0525,Light marl
+16.41,0.0415,Light marl
+16.44,0.0185,Limestone
+16.47,0.0195,Limestone
+16.50,0.0180,Limestone
+16.53,0.0320,Light marl
+16.56,0.0495,Light marl
+16.59,0.0565,Light marl
+16.62,0.0220,Limestone nodule
+16.65,0.0170,Limestone nodule
+16.68,0.0175,Limestone nodule
+16.71,0.0515,Light marl
+16.74,0.0520,Light marl
+16.77,0.0540,Light marl
+16.80,0.0495,Light marl
+16.83,0.0515,Light marl
+16.86,0.0525,Light marl
+16.89,0.0585,Light marl
+16.92,0.0495,Light marl
+16.95,0.0555,Light marl
+16.98,0.0510,Light marl
+17.01,0.0520,Light marl
+17.04,0.0520,Light marl
+17.07,0.0380,Light marl
+17.10,0.0445,Light marl
+17.13,0.0350,Light marl
+17.16,0.0225,Limestone
+17.19,0.0175,Limestone
+17.22,0.0160,Limestone
+17.25,0.0160,Limestone
+17.28,0.0215,Limestone
+17.31,0.0255,Limestone
+17.34,0.0470,Dark marl
+17.37,0.0425,Dark marl
+17.40,0.0435,Dark marl
+17.43,0.0520,Dark marl
+17.46,0.0440,Dark marl
+17.49,0.0430,Dark marl
+17.52,0.0460,Dark marl
+17.55,0.0530,Dark marl
+17.58,0.0530,Dark marl
+17.61,0.0610,Dark marl
+17.64,0.0485,Dark marl
+17.67,0.0555,Dark marl
+17.70,0.0495,Dark marl
+17.73,0.0515,Dark marl
+17.76,0.0470,Dark marl
+17.79,0.0560,Dark marl
+17.82,0.0555,Dark marl
+17.85,0.0580,Dark marl
+17.88,0.0465,Dark marl
+17.91,0.0530,Dark marl
+17.94,0.0560,Dark marl
+17.97,0.0555,Dark marl
+18.00,0.0520,Light marl
+18.03,0.0565,Light marl
+18.06,0.0590,Light marl
+18.09,0.0525,Light marl
+18.12,0.0610,Light marl
+18.15,0.0585,Light marl
+18.18,0.0520,Light marl
+18.21,0.0525,Light marl
+18.24,0.0430,Light marl
+18.27,0.0405,Light marl
+18.30,0.0315,Limestone
+18.33,0.0270,Limestone
+18.36,0.0180,Limestone
+18.39,0.0140,Limestone
+18.42,0.0155,Limestone
+18.45,0.0205,Limestone
+18.48,0.0380,Light marl
+18.51,0.0240,Light marl
+18.54,0.0190,Limestone
+18.57,0.0185,Limestone
+18.60,0.0175,Limestone
+18.63,0.0215,Limestone
+18.66,0.0225,Limestone
+18.69,0.0290,Limestone
+18.72,0.0420,Dark marl
+18.75,0.0465,Dark marl
+18.78,0.0470,Dark marl
+18.81,0.0530,Dark marl
+18.84,0.0550,Dark marl
+18.87,0.0510,Dark marl
+18.90,0.0500,Dark marl
+18.93,0.0485,Dark marl
+18.96,0.0505,Dark marl
+18.99,0.0475,Dark marl
+19.02,0.0485,Dark marl
+19.05,0.0545,Dark marl
+19.08,0.0470,Dark marl
+19.11,0.0415,Light marl
+19.14,0.0560,Light marl
+19.17,0.0515,Light marl
+19.20,0.0485,Light marl
+19.23,0.0380,Light marl
+19.26,0.0485,Light marl
+19.29,0.0485,Light marl
+19.32,0.0510,Light marl
+19.35,0.0495,Light marl
+19.38,0.0530,Light marl
+19.41,0.0535,Light marl
+19.44,0.0525,Light marl
+19.47,0.0480,Light marl
+19.50,0.0480,Light marl
+19.53,0.0570,Light marl
+19.56,0.0490,Light marl
+19.59,0.0540,Light marl
+19.62,0.0485,Light marl
+19.65,0.0400,Light marl
+19.68,0.0240,Limestone
+19.71,0.0215,Limestone
+19.74,0.0205,Limestone
+19.77,0.0190,Limestone
+19.80,0.0175,Limestone
+19.83,0.0400,Dark marl
+19.86,0.0550,Dark marl
+19.89,0.0485,Dark marl
+19.92,0.0475,Light marl
+19.95,0.0440,Light marl
+19.98,0.0490,Dark marl
+20.01,0.0355,Dark marl
+20.04,0.0530,Light marl
+20.07,0.0440,Light marl
+20.10,0.0280,Light marl
+20.13,0.0180,Limestone
+20.16,0.0160,Limestone
+20.19,0.0420,Light marl
+20.22,0.0415,Light marl
+20.25,0.0445,Light marl
+20.28,0.0425,Light marl
+20.31,0.0465,Dark marl
+20.34,0.0500,Dark marl
+20.37,0.0505,Dark marl
+20.40,0.0445,Dark marl
+20.43,0.0460,Dark marl
+20.46,0.0210,Limestone
+20.49,0.0160,Limestone
+20.52,0.0250,Limestone
+20.55,0.0440,Light marl
+20.58,0.0140,Limestone
+20.61,0.0165,Limestone
+20.64,0.0475,Light marl
+20.67,0.0475,Laminated shale
+20.70,0.0600,Laminated shale
+20.73,0.0535,Laminated shale
+20.76,0.0560,Dark marl
+20.79,0.0540,Light marl
+20.82,0.0345,Light marl
+20.85,0.0170,Limestone
+20.88,0.0180,Limestone
+20.91,0.0355,Light marl
+20.94,0.0480,Light marl
+20.97,0.0455,Dark marl
+21.00,0.0490,Light marl
+21.03,0.0490,Light marl
+21.06,0.0520,Light marl
+21.09,0.0265,Limestone
+21.12,0.0185,Limestone
+21.15,0.0185,Limestone
+21.18,0.0215,Limestone
+21.21,0.0530,Dark marl
+21.24,0.0570,Dark marl
+21.27,0.0570,Dark marl
+21.30,0.0575,Dark marl
+21.33,0.0510,Dark marl
+21.36,0.0595,Light marl
+21.39,0.0465,Light marl
+21.42,0.0500,Light marl
+21.45,0.0460,Light marl
+21.48,0.0480,Light marl
+21.51,0.0435,Light marl
+21.54,0.0490,Light marl
+21.57,0.0495,Light marl
+21.60,0.0445,Light marl
+21.63,0.0500,Light marl
+21.66,0.0510,Light marl
+21.69,0.0445,Light marl
+21.72,0.0350,Light marl
+21.75,0.0240,Limestone
+21.78,0.0235,Limestone
+21.81,0.0185,Limestone
+21.84,0.0240,Limestone
+21.87,0.0190,Limestone
+21.90,0.0260,Light marl
+21.93,0.0345,Light marl
+21.96,0.0370,Light marl
+21.99,0.0195,Limestone
+22.02,0.0210,Limestone
+22.05,0.0380,Light marl
+22.08,0.0410,Light marl
+22.11,0.0510,Dark marl
+22.14,0.0425,Dark marl
+22.17,0.0190,Limestone
+22.20,0.0355,Dark marl
+22.23,0.0410,Dark marl
+22.26,0.0395,Dark marl
+22.29,0.0155,Limestone
+22.32,0.0175,Limestone
+22.35,0.0420,Laminated shale
+22.38,0.0370,Laminated shale
+22.41,0.0465,Laminated shale
+22.44,0.0500,Laminated shale
+22.47,0.0425,Laminated shale
+22.50,0.0450,Laminated shale
+22.53,0.0470,Laminated shale
+22.56,0.0450,Laminated shale
+22.59,0.0445,Laminated shale
+22.62,0.0465,Dark marl
+22.65,0.0265,Dark marl
+22.68,0.0430,Dark marl
+22.71,0.0185,Limestone/Dark marl
+22.74,0.0140,Limestone
+22.77,0.0130,Limestone
+22.80,0.0350,Dark marl/Limestone
+22.83,0.0430,Dark marl
+22.86,0.0445,Light marl
+22.89,0.0295,Limestone/Light marl
+22.92,0.0165,Limestone
+22.95,0.0160,Limestone
+22.98,0.0135,Limestone
+23.01,0.0175,Limestone
+23.04,0.0170,Limestone
+23.07,0.0245,Limestone
+23.10,0.0410,Light marl
+23.13,0.0405,Light marl
+23.16,0.0205,Limestone nodule
+23.19,0.0155,Limestone nodule
+23.22,0.0190,Limestone nodule
+23.25,0.0375,Dark marl
+23.28,0.0395,Dark marl
+23.31,0.0440,Dark marl
+23.34,0.0430,Dark marl
+23.37,0.0495,Dark marl
+23.40,0.0460,Dark marl
+23.43,0.0405,Dark marl
+23.46,0.0385,Dark marl
+23.49,0.0370,Dark marl
+23.52,0.0400,Dark marl
+23.55,0.0390,Dark marl
+23.58,0.0380,Dark marl
+23.61,0.0460,Dark marl
+23.64,0.0410,Dark marl
+23.67,0.0405,Dark marl
+23.70,0.0430,Dark marl
+23.73,0.0330,Dark marl
+23.76,0.0185,Limestone
+23.79,0.0225,Limestone
+23.82,0.0185,Limestone
+23.85,0.0130,Limestone
+23.88,0.0140,Limestone
+23.91,0.0195,Limestone
+23.94,0.0430,Dark marl
+23.97,0.0380,Dark marl
+24.00,0.0380,Dark marl
+24.03,0.0415,Dark marl
+24.06,0.0390,Dark marl
+24.09,0.0410,Light marl/Dark marl
+24.12,0.0345,Light marl
+24.15,0.0255,Light marl
+24.18,0.0340,Light marl
+24.21,0.0340,Light marl
+24.24,0.0235,Light marl
+24.27,0.0095,Limestone/Light marl
+24.30,0.0120,Limestone
+24.33,0.0200,Limestone
+24.36,0.0385,Light marl
+24.39,0.0365,Light marl
+24.42,0.0395,Light marl
+24.45,0.0375,Light marl
+24.48,0.0340,Light marl
+24.51,0.0110,Limestone
+24.54,0.0140,Limestone
+24.57,0.0130,Limestone
+24.60,0.0145,Limestone
+24.63,0.0300,Light marl
+24.66,0.0325,Light marl
+24.69,0.0375,Light marl
+24.72,0.0120,Limestone nodule
+24.75,0.0120,Limestone nodule
+24.78,0.0375,Light marl
+24.81,0.0375,Light marl
+24.84,0.0360,Light marl
+24.87,0.0190,Limestone
+24.90,0.0135,Limestone
+24.93,0.0135,Limestone
+24.96,0.0125,Limestone
+24.99,0.0135,Limestone
+25.02,0.0420,Light marl
+25.05,0.0430,Light marl
+25.08,0.0190,Limestone nodule
+25.11,0.0230,Limestone nodule
+25.14,0.0445,Light marl
+25.17,0.0420,Light marl
+25.20,0.0390,Light marl
+25.23,0.0385,Light marl
+25.26,0.0330,Light marl
+25.29,0.0365,Light marl
+25.32,0.0385,Light marl
+25.35,0.0400,Light marl
+25.38,0.0365,Light marl
+25.41,0.0360,Light marl
+25.44,0.0230,Light marl
+25.47,0.0115,Limestone
+25.50,0.0115,Limestone
+25.53,0.0120,Limestone
+25.56,0.0165,Limestone
+25.59,0.0250,Light marl/Limestone
+25.62,0.0240,Limestone
+25.65,0.0150,Limestone
+25.68,0.0110,Limestone
+25.71,0.0125,Limestone
+25.74,0.0295,Light marl
+25.77,0.0160,Limestone
+25.80,0.0160,Limestone
+25.83,0.0140,Limestone
+25.86,0.0310,Light marl
+25.89,0.0195,Limestone
+25.92,0.0140,Limestone
+25.95,0.0150,Limestone
+25.98,0.0280,Light marl/Limestone
+26.01,0.0405,Light marl
+26.04,0.0300,Light marl
+26.07,0.0335,Light marl
+26.10,0.0470,Light marl
+26.13,0.0435,Light marl
+26.16,0.0385,Light marl
+26.19,0.0370,Light marl
+26.22,0.0385,Light marl
+26.25,0.0375,Light marl
+26.28,0.0155,Limestone
+26.31,0.0155,Limestone
+26.34,0.0155,Limestone
+26.37,0.0285,Light marl
+26.40,0.0285,Light marl
+26.43,0.0335,Light marl
+26.46,0.0275,Light marl
+26.49,0.0330,Light marl
+26.52,0.0205,Limestone
+26.55,0.0150,Limestone
+26.58,0.0135,Limestone
+26.61,0.0125,Limestone
+26.64,0.0115,Limestone
+26.67,0.0110,Limestone
+26.70,0.0180,Light marl
+26.73,0.0290,Light marl
+26.76,0.0425,Dark marl
+26.79,0.0425,Dark marl
+26.82,0.0430,Dark marl
+26.85,0.0370,Dark marl
+26.88,0.0365,Dark marl
+26.91,0.0330,Light marl
+26.94,0.0410,Light marl
+26.97,0.0370,Light marl
+27.00,0.0335,Light marl
+27.03,0.0335,Limestone/Light marl
+27.06,0.0150,Limestone
+27.09,0.0150,Limestone
+27.12,0.0180,Limestone
+27.15,0.0305,Light marl
+27.18,0.0300,Dark marl
+27.21,0.0320,Dark marl
+27.24,0.0430,Dark marl
+27.27,0.0370,Light marl
+27.30,0.0315,Light marl
+27.33,0.0185,Limestone/Light marl
+27.36,0.0130,Limestone
+27.39,0.0130,Limestone
+27.42,0.0145,Limestone
+27.45,0.0135,Limestone
+27.48,0.0155,Limestone
+27.51,0.0195,Limestone
+27.54,0.0300,Light marl
+27.57,0.0360,Light marl
+27.60,0.0305,Limestone
+27.63,0.0185,Limestone
+27.66,0.0175,Limestone
+27.69,0.0200,Limestone
+27.72,0.0310,Light marl
+27.75,0.0365,Light marl
+27.78,0.0355,Light marl
+27.81,0.0345,Dark marl
+27.84,0.0365,Light marl
+27.87,0.0360,Light marl
+27.90,0.0395,Light marl
+27.93,0.0435,Light marl
+27.96,0.0455,Light marl
+27.99,0.0410,Light marl
+28.02,0.0375,Dark marl
+28.05,0.0410,Dark marl
+28.08,0.0405,Dark marl
+28.11,0.0445,Dark marl
+28.14,0.0330,Dark marl
+28.17,0.0355,Light marl
+28.20,0.0380,Light marl
+28.23,0.0395,Light marl
+28.26,0.0210,Limestone/Light marl
+28.29,0.0155,Limestone
+28.32,0.0140,Limestone
+28.35,0.0155,Limestone
+28.38,0.0190,Limestone
+28.41,0.0430,Light marl
+28.44,0.0410,Light marl
+28.47,0.0380,Light marl
+28.50,0.0415,Light marl
+28.53,0.0435,Light marl
+28.56,0.0405,Light marl
+28.59,0.0450,Light marl
+28.62,0.0455,Light marl
+28.65,0.0385,Light marl
+28.68,0.0400,Dark marl
+28.71,0.0365,Laminated shale/Dark marl
+28.74,0.0285,Laminated shale
+28.77,0.0310,Laminated shale
+28.80,0.0370,Laminated shale
+28.83,0.0330,Dark marl
+28.86,0.0265,Dark marl
+28.89,0.0250,Light marl
+28.92,0.0315,Light marl
+28.95,0.0330,Light marl
+28.98,0.0260,Limestone
+29.01,0.0200,Limestone
+29.04,0.0175,Limestone
+29.07,0.0150,Limestone
+29.10,0.0170,Limestone
+29.13,0.0210,Limestone
+29.16,0.0215,Limestone
+29.19,0.0305,Limestone
+29.22,0.0350,Limestone
+29.25,0.0335,Light marl
+29.28,0.0315,Light marl
+29.31,0.0295,Light marl
+29.34,0.0330,Dark marl
+29.37,0.0405,Light marl
+29.40,0.0370,Light marl
+29.43,0.0380,Light marl
+29.46,0.0330,Light marl
+29.49,0.0185,Limestone
+29.52,0.0140,Limestone
+29.55,0.0140,Limestone
+29.58,0.0190,Limestone
+29.61,0.0185,Limestone
+29.64,0.0190,Limestone
+29.67,0.0185,Limestone
+29.70,0.0225,Limestone
+29.73,0.0270,Limestone
+29.76,0.0335,Dark marl
+29.79,0.0395,Dark marl
+29.82,0.0425,Laminated shale
+29.85,0.0425,Laminated shale
+29.88,0.0355,Laminated shale
+29.91,0.0425,Laminated shale
+29.94,0.0405,Light marl
+29.97,0.0335,Light marl
+30.00,0.0350,Light marl
+30.03,0.0375,Light marl
+30.06,0.0335,Light marl
+30.09,0.0335,Light marl
+30.12,0.0330,Laminated shale
+30.15,0.0315,Laminated shale
+30.18,0.0350,Light marl
+30.21,0.0320,Dark marl
+30.24,0.0270,Dark marl
+30.27,0.0290,Light marl
+30.30,0.0295,Light marl
+30.33,0.0285,Light marl
+30.36,0.0225,Light marl
+30.39,0.0210,Light marl
+30.42,0.0225,Light marl
+30.45,0.0335,Light marl
+30.48,0.0325,Light marl
+30.51,0.0455,Laminated shale
+30.54,0.0400,Laminated shale
+30.57,0.0480,Laminated shale
+30.60,0.0490,Laminated shale
+30.63,0.0420,Light marl
+30.66,0.0320,Light marl
+30.69,0.0315,Light marl
+30.72,0.0415,Light marl
+30.75,0.0335,Light marl
+30.78,0.0360,Light marl
+30.81,0.0420,Laminated shale
+30.84,0.0410,Laminated shale
+30.87,0.0500,Laminated shale
+30.90,0.0370,Laminated shale
+30.93,0.0320,Laminated shale
+30.96,0.0360,Light marl
+30.99,0.0345,Light marl
+31.02,0.0330,Light marl
+31.05,0.0205,Light marl
+31.08,0.0235,Light marl
+31.11,0.0190,Light marl
+31.14,0.0170,Light marl
+31.17,0.0210,Light marl
+31.20,0.0320,Light marl
+31.23,0.0315,Dark marl
+31.26,0.0185,Limestone
+31.29,0.0180,Limestone
+31.32,0.0205,Limestone
+31.35,0.0195,Limestone
+31.38,0.0190,Limestone
+31.41,0.0340,Light marl
+31.44,0.0410,Laminated shale
+31.47,0.0315,Light marl/Laminated shale
+31.50,0.0280,Light marl
+31.53,0.0300,Light marl
+31.56,0.0320,Light marl
+31.59,0.0280,Light marl
+31.62,0.0255,Limestone
+31.65,0.0190,Limestone
+31.68,0.0180,Limestone
+31.71,0.0180,Limestone
+31.74,0.0185,Limestone
+31.77,0.0215,Limestone
+31.80,0.0245,Limestone
+31.83,0.0360,Light marl
+31.86,0.0370,Light marl
+31.89,0.0340,Light marl
+31.92,0.0375,Light marl
+31.95,0.0380,Light marl
+31.98,0.0305,Light marl
+32.01,0.0410,Light marl
+32.04,0.0365,Light marl
+32.07,0.0435,Light marl
+32.10,0.0395,Dark marl
+32.13,0.0340,Dark marl
+32.16,0.0405,Dark marl
+32.19,0.0395,Dark marl
+32.22,0.0400,Dark marl
+32.25,0.0350,Dark marl
+32.28,0.0340,Dark marl
+32.31,0.0415,Dark marl
+32.34,0.0325,Dark marl
+32.37,0.0340,Dark marl
+32.40,0.0365,Dark marl
+32.43,0.0335,Dark marl
+32.46,0.0305,Dark marl
+32.49,0.0310,Dark marl
+32.52,0.0370,Dark marl
+32.55,0.0335,Dark marl
+32.58,0.0330,Dark marl
+32.61,0.0355,Dark marl
+32.64,0.0315,Dark marl
+32.67,0.0425,Light marl
+32.70,0.0365,Light marl
+32.73,0.0285,Light marl
+32.76,0.0255,Limestone
+32.79,0.0195,Limestone
+32.82,0.0200,Limestone
+32.85,0.0195,Limestone
+32.88,0.0190,Limestone
+32.91,0.0220,Limestone
+32.94,0.0225,Light marl/Limestone
+32.97,0.0395,Light marl
+33.00,0.0345,Light marl

@@ -1,0 +1,23 @@
+{
+  "positive_gubbio": {
+    "r": 0.7264164284010803,
+    "best": "GUE",
+    "data": "real, PANGAEA 864450"
+  },
+  "positive_bluelias": {
+    "r": 0.7321512209708102,
+    "best": "GUE",
+    "surrogate_p": 0.0,
+    "data": "real, PANGAEA 896875"
+  },
+  "negative_woodlark": {
+    "r_pre": 0.36719180803109364,
+    "r_post": 0.3986456370743157,
+    "anchor": "Awadallah et al. 2001 ODP Leg 180 ch.9",
+    "measured_params": "power-law beta=1.5-5.5, seismic multi-source, spatial clustering",
+    "note": "forward model anchored to real published statistics; raw bed-thickness table not public"
+  },
+  "poisson_ref": 0.386,
+  "goe_ref": 0.536,
+  "gue_ref": 0.603
+}

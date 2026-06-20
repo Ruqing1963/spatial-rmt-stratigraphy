@@ -1,0 +1,141 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{mathptmx}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage[margin=1in]{geometry}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{natbib}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{setspace}
+\usepackage{xcolor}
+\usepackage{xurl}
+\onehalfspacing
+\hypersetup{colorlinks=true,linkcolor=blue!60!black,citecolor=blue!60!black,urlcolor=blue!60!black,breaklinks=true}
+
+\title{\textbf{Spatial Level Repulsion in the Stratigraphic Record:\\
+A Random Matrix Theory Test of Cyclostratigraphic Bed Spacing}\\[4pt]
+\large Translating the Temporal GOE Law to the Spatial Domain ---\\
+Part I: The Stratigraphic Analog}
+
+\author{Ruqing Chen\\
+\textit{GUT Geoservice Inc., Montreal, Canada}\\
+\texttt{ruqing@hotmail.com}}
+\date{June 2026}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+A four-racetrack program has established that the \emph{temporal} spacing of geological events follows random matrix theory (RMT) level repulsion when a single long-memory process is isolated, and Poisson randomness when many sources superpose. Here we begin a fifth racetrack that translates this law to the \emph{spatial} domain: if energy or matter concentration creates depletion zones, then the spatial spacings of co-genetic geological bodies should also follow Wigner--Dyson statistics. This Part~I establishes the methodology on the cleanest spatial system---cyclostratigraphy---and reports the first real-data test. We build and validate a spatial RMT pipeline (local unfolding to remove density trends; spatial declustering to remove fractal aggregation) on synthetic ground truth, confirming that the spacing ratio $\langle r\rangle$ distinguishes Poisson from repulsive spatial point patterns and, importantly, that $\langle r\rangle$ is naturally robust to smooth density gradients. We then apply it to two independent, openly downloadable cyclostratigraphic proxy series---the Gubbio Contessa magnetic-susceptibility section (Tethyan, Danian) and the Blue Lias section (UK, Hettangian)---and find that the down-core spacings of Milankovitch cycles show strong level repulsion in both ($\langle r\rangle=0.73$ in each, GUE-class, bootstrap CIs excluding Poisson; surrogate test $p<0.0001$). As a negative control, turbidite successions---triggered by many independent power-law earthquake events---are predicted and shown (via a forward model anchored to published Woodlark Basin statistics) to give Poisson/clustered spacing. The Poisson baseline (0.386) cleanly separates the two regimes. We are explicit that the repulsion in cyclic strata reflects \emph{astronomical quasi-periodic forcing}---an external clock---rather than the ``spatial shadow'' depletion mechanism that motivates the broader racetrack; the latter awaits the structural and metallogenic analogs. The negative control is a literature-anchored forward model, not raw measurements; we have requested the original per-bed data.
+
+\medskip
+\noindent\textbf{Keywords:} random matrix theory; cyclostratigraphy; Milankovitch cycles; spatial point process; level repulsion; bed thickness; turbidites; spectral superposition
+
+\medskip
+\noindent\textbf{Code/data:} \url{https://github.com/Ruqing1963/spatial-rmt-stratigraphy}\\
+\textbf{Companion studies:} \url{https://zenodo.org/records/20766310} ; \url{https://zenodo.org/records/20768130} ; \url{https://zenodo.org/records/20768420} ; \url{https://zenodo.org/records/20768849}
+\end{abstract}
+
+\section{Introduction}
+
+Four previous racetracks established a single principle across Earth's temporal rhythms: GOE-class level repulsion emerges wherever a single long-memory process is isolated, and Poisson randomness emerges wherever many independent sources superpose \citep{chen2026geo,chen2026fault,chen2026plume,chen2026metal}. The mechanism is finite memory: a stress that must rebuild, a thermal boundary layer that must reheat, a metal reservoir that must recharge---each forbids events from recurring too soon, suppressing short intervals exactly as eigenvalues repel.
+
+This paper opens a fifth racetrack by a symmetry translation from time to \emph{space}. The motivating \emph{spatial shadow hypothesis} is that any concentrated release of energy or matter creates a spatial depletion zone---a stress shadow, a fluid-pressure shadow, a thermal-convection void---so that the spatial spacings of co-genetic geological bodies ($\Delta X$ along a structural corridor, $\Delta Z$ down a core) should also follow Wigner--Dyson repulsion. The four planned spatial analogs mirror the four temporal racetracks: stratigraphic (cycle spacing), structural (fault/joint spacing), mantle (hotspot spacing), and metallogenic (deposit spacing).
+
+We begin with stratigraphy because it is the cleanest: a core provides a naturally one-dimensional sequence, and Milankovitch cyclostratigraphy provides a well-understood signal. We stress at the outset an important physical distinction. Milankovitch cycles are driven by an \emph{external} astronomical clock (orbital eccentricity, obliquity, precession), so any repulsion in their spacing reflects that quasi-periodic forcing, \emph{not} the intrinsic spatial-shadow depletion mechanism. The stratigraphic analog therefore tests whether the spatial RMT method works and can grade signal strength---a methodological foundation---rather than directly testing the spatial-shadow hypothesis, which the later structural and metallogenic analogs address. Because an external periodic clock is more rigid than the self-organized memory of the temporal racetracks, we predicted \emph{before analysis} that cyclostratigraphic spacings should show repulsion even stronger than the weak GOE of geological-epoch boundaries \citep{chen2026geo}, approaching GUE.
+
+\section{Methods}
+
+\subsection{Spatial RMT pipeline}
+The pipeline has two operations. \emph{Local unfolding} removes any non-uniform background density of bodies by fitting a smooth spline to the cumulative count $N(x)$ and rescaling so that the local mean spacing is unity; this guards against a spatially varying density masquerading as structure. \emph{Spatial declustering} removes fractal aggregation (e.g., closely spaced sub-bodies of one rupture or one bundle) by merging bodies separated by less than a fraction of the median spacing to their centroid, retaining only independent principal bodies---the spatial analog of aftershock declustering. We then sort positions, compute spacings, unfold, and evaluate the spacing ratio $\langle r\rangle$ \citep{atas2013} (Poisson 0.386, GOE 0.536, GUE 0.603), with KS tests and a bootstrap 95\% CI.
+
+\subsection{Synthetic validation}
+On synthetic ground truth, the pipeline cleanly separates a pure Poisson spatial process ($\langle r\rangle=0.37$) from a pure GOE process ($\langle r\rangle=0.56$). A key methodological finding emerged: monotonic density gradients (to strength 6) and periodic density modulation (to 10 cycles) do \emph{not} create false repulsion---$\langle r\rangle$, being a local adjacent-spacing ratio, is naturally immune to smooth density trends. This makes the spatial method more robust than anticipated: unfolding aids visualization but the core $\langle r\rangle$ statistic does not depend on it. Declustering, by contrast, is essential: spatial clustering lowers $\langle r\rangle$ (masking repulsion), so it must be removed before testing.
+
+\subsection{From proxy series to spatial spacings}
+Real cyclostratigraphic data are continuous proxy series (magnetic susceptibility, grayscale) sampled at fixed depth intervals. We extract cycle positions by smoothing (Savitzky--Golay), detecting peaks at a minimum separation set near the dominant cycle wavelength, and taking inter-peak depths as the spatial spacings (Figure~\ref{fig:method}). We verify robustness across peak-detection scales.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=\textwidth]{figs/fig1_method.pdf}
+\caption{Method on real Gubbio data: a continuous magnetic-susceptibility series (top) is smoothed and its Milankovitch cycle peaks detected; the inter-peak spatial spacings $\Delta Z$ (bottom) are the input to the RMT analysis.}
+\label{fig:method}
+\end{figure}
+
+\section{Results}
+
+\subsection{Two independent real cyclostratigraphic sections show spatial repulsion}
+We analyzed two openly downloadable proxy series from different basins, ages, and lithologies. The Gubbio Contessa Highway section (Tethyan, Danian pelagic limestone; magnetic susceptibility; PANGAEA 864450) gives $\langle r\rangle=0.726$. The Blue Lias section (UK, Hettangian limestone--shale rhythmite; magnetic susceptibility; PANGAEA 896875) gives $\langle r\rangle=0.732$. Both are GUE-class, with bootstrap CIs excluding Poisson, and the result is stable across peak-detection scales (Table~\ref{tab:main}, Figure~\ref{fig:posneg}). That two unrelated sections give nearly identical strong repulsion is an independent replication.
+
+\begin{table}[H]
+\centering
+\caption{Stratigraphic spatial domain: positive cases (real, downloadable) versus negative control (literature-anchored forward model).}
+\label{tab:main}
+\small
+\begin{tabular}{lllcc}
+\toprule
+System & Driver & Data status & $\langle r\rangle$ & Class \\
+\midrule
+Gubbio (Tethyan, Cretaceous) & single astronomical & real (PANGAEA 864450) & 0.726 & GUE \\
+Blue Lias (UK, Jurassic) & single astronomical & real (PANGAEA 896875) & 0.732 & GUE \\
+Woodlark turbidites (pre-decluster) & multi-source seismic & fwd model (lit-anchored) & 0.367 & clustered \\
+Woodlark turbidites (post-decluster) & multi-source seismic & fwd model (lit-anchored) & 0.399 & Poisson \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Surrogate test}
+To exclude the possibility that the repulsion is an artifact of the peak-picking pipeline, we compared the real Blue Lias limestone-cycle positions against 2000 surrogates in which the same number of cycles were placed at random within the same depth interval. The surrogate mean was $\langle r\rangle=0.389$ (i.e., Poisson), and the probability that a random realization reaches the real value was $p<0.0001$. The spatial repulsion in real strata is decisively stronger than random.
+
+\subsection{Negative control: turbidites}
+As a negative control we use turbidite successions, whose beds are deposited by many independent gravity flows triggered by power-law-distributed earthquakes \citep{awadallah2001}---a multi-source superposition that should randomize. Anchored to the measured Woodlark Basin parameters (power-law bed thickness with $\beta=1.5$--$5.5$; documented spatial clustering of thick sand beds; bed counts 1526/454/275 for Holes 1118A/1109D/1115C), a forward model gives $\langle r\rangle\approx0.37$ before declustering (clustered, below Poisson) and $\approx0.40$ after (Poisson). The Poisson baseline (0.386) thus falls cleanly between the cyclic and turbidite regimes (Figure~\ref{fig:discrim}), demonstrating that the method discriminates a single periodic source from multi-source superposition---exactly as in the four temporal racetracks.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=\textwidth]{figs/fig2_positive_negative.pdf}
+\caption{Spacing distributions. The two real cyclostratigraphic sections (blue, green) show GUE-class repulsion; the turbidite negative control (gold, forward model) collapses toward Poisson.}
+\label{fig:posneg}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.9\textwidth]{figs/fig3_discrimination.pdf}
+\caption{Discriminating power: the Poisson baseline (0.386) cleanly separates the repulsive single-source regime (real cyclic strata) from the random/clustered multi-source regime (turbidites).}
+\label{fig:discrim}
+\end{figure}
+
+\section{Discussion}
+
+\subsection{What is and is not established}
+This Part~I establishes three things. First, the spatial RMT pipeline works: it distinguishes Poisson from repulsion on synthetic ground truth and is robust to density gradients. Second, real cyclostratigraphic sections show strong, replicable, surrogate-validated spatial repulsion. Third, the method discriminates single-source from multi-source spatial patterns, with turbidites as a Poisson negative control.
+
+We are equally explicit about what is \emph{not} established. The repulsion in cyclic strata arises from \emph{astronomical quasi-periodic forcing}---an external clock---and therefore does not, by itself, validate the spatial-shadow depletion hypothesis that motivates the racetrack. Indeed, its strength (GUE, near the rigid-lattice limit) is exactly what an external periodic forcing predicts and is consistent with our pre-analysis expectation. The spatial-shadow hypothesis---that bodies repel because each depletes a local resource---must be tested where there is no external clock: the structural analog (fault/joint spacing under stress shadows) and the metallogenic analog (ore-body spacing). Those are the subjects of Parts~II and~III.
+
+\subsection{Limitations}
+The two positive cases are both astronomically forced, so their agreement confirms method reliability and the strength of periodic forcing, not the spatial-shadow mechanism. The negative control is a forward model anchored to published Woodlark statistics, not raw per-bed measurements; we have requested the original data and will update if obtained. GUE-versus-GOE is not sharply resolved, and both sections saturate near the rigid-lattice limit, suggesting the true pattern may be even more ordered than GUE. Peak detection introduces a modeling choice, mitigated here by multi-scale robustness and the surrogate test.
+
+\section{Conclusions}
+The temporal level-repulsion law translates to the spatial domain. On the cleanest system---cyclostratigraphy---a validated spatial RMT pipeline shows that the down-core spacings of Milankovitch cycles in two independent, real, downloadable sections exhibit strong GUE-class repulsion (surrogate $p<0.0001$), while multi-source turbidites give Poisson, the baseline cleanly separating the two. This establishes the spatial method and confirms it can grade signal strength. It does not yet test the spatial-shadow hypothesis, because the cyclic repulsion is externally clocked; that test belongs to the structural and metallogenic analogs to come. This is Part~I of the fifth racetrack, extending the program's reach from Earth's temporal rhythms to its three-dimensional architecture.
+
+\section*{Data and Code Availability}
+Pipeline, analysis code, and processed data: \url{https://github.com/Ruqing1963/spatial-rmt-stratigraphy}. Real proxy series: PANGAEA \href{https://doi.org/10.1594/PANGAEA.864450}{864450} (Gubbio) and \href{https://doi.org/10.1594/PANGAEA.896875}{896875} (Blue Lias). Turbidite statistics from \citet{awadallah2001}.
+
+\begin{thebibliography}{20}
+\bibitem[At\'as et al.(2013)]{atas2013} At\'as, Y.Y., Bogomolny, E., Giraud, O., Roux, G. (2013). Distribution of the ratio of consecutive level spacings. \textit{Phys. Rev. Lett.}, 110, 084101.
+\bibitem[Awadallah et al.(2001)]{awadallah2001} Awadallah, S.A.M., Hiscott, R.N., Bidgood, M., Crowther, T.E. (2001). Turbidite facies and bed-thickness characteristics inferred from microresistivity (FMS) images of lower to upper Pliocene rift-basin deposits, Woodlark Basin. \textit{Proc. ODP, Sci. Results}, 180, ch.~9.
+\bibitem[Chen(2026a)]{chen2026geo} Chen, R. (2026a). Statistical isomorphism between Phanerozoic tectonic rhythms and Riemann zeta zero spacings. Zenodo, \url{https://zenodo.org/records/20766310}.
+\bibitem[Chen(2026b)]{chen2026fault} Chen, R. (2026b). From hypothesis to reality: scale-dependent universality classes in Earth's seismotectonic rhythms. Zenodo, \url{https://zenodo.org/records/20768130}.
+\bibitem[Chen(2026c)]{chen2026plume} Chen, R. (2026c). Level repulsion in the deep Earth: a random matrix theory analysis of mantle-plume eruption rhythms. Zenodo, \url{https://zenodo.org/records/20768420}.
+\bibitem[Chen(2026d)]{chen2026metal} Chen, R. (2026d). Charge-and-release rhythms in ore-forming systems: a random matrix theory test of metallogenic timing across four provinces. Zenodo, \url{https://zenodo.org/records/20768849}.
+\bibitem[Sinnesael et al.(2016)]{sinnesael2016} Sinnesael, M., et al. (2016). High-resolution magnetic susceptibility, Contessa Highway section, Gubbio. PANGAEA, \url{https://doi.org/10.1594/PANGAEA.864450}.
+\bibitem[Sylvester(2007)]{sylvester2007} Sylvester, Z. (2007). Turbidite bed thickness distributions: methods and pitfalls of analysis and modelling. \textit{Sedimentology}, 54, 847--870.
+\bibitem[Talling(2001)]{talling2001} Talling, P.J. (2001). On the frequency distribution of turbidite thickness. \textit{Sedimentology}, 48, 1297--1329.
+\bibitem[Weedon et al.(2019)]{weedon2019} Weedon, G.P., Page, K.N., Jenkyns, H.C. (2019). Cyclostratigraphy, stratigraphic gaps and the duration of the Hettangian Stage. \textit{Geol. Mag.}, 156, 1469--1509. Data: PANGAEA \url{https://doi.org/10.1594/PANGAEA.896875}.
+\bibitem[Wigner(1957)]{wigner1957} Wigner, E.P. (1957). Characteristic vectors of bordered matrices. \textit{Ann. Math.}, 62, 548--564.
+\end{thebibliography}
+
+\end{document}
